@@ -6,3 +6,7 @@ The following are the business questions that have been answered after doing thi
 1. Which airlines have most satisfied/ happy customers?  
 2. Which airlines have least satisfied/ unhappy customers? 
 3. Which factors influence the customer satisfaction?
+
+How to Run:
+
+This code can be run using RStudio
